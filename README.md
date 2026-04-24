@@ -64,7 +64,7 @@ Harga       : Rp8.000.000
 
 Harga setelah diskon 10%: Rp7.200.000
 ```
-
+---
 ## Catatan
 
 Project ini dibuat untuk memenuhi tugas pemrograman dasar Java mengenai:
