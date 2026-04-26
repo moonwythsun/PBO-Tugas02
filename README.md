@@ -1,7 +1,7 @@
 ## PBO-Tugas02
 
 - **Nama:** Amalia Rizqy Putri Syapriansyah
-- **NPM:** 2410020174
+- **NPM:** 2410020174r
 
 ---
 
