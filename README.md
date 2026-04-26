@@ -15,7 +15,6 @@ Project ini berisi:
 * Implementasi object pada class `Main`
 * Penggunaan constructor (default & parameter)
 * Method dengan nilai balik dan tanpa nilai balik
-* Format harga dalam bentuk rupiah (Rp)
 
 ---
 
