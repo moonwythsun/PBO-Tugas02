@@ -1,10 +1,3 @@
-## PBO-Tugas02
-
-- **Nama:** Amalia Rizqy Putri Syapriansyah
-- **NPM:** 2410020174
-
----
-
 ## Deskripsi Project
 
 Project Java sederhana menggunakan NetBeans yang mengimplementasikan konsep **Object-Oriented Programming (OOP)**.
